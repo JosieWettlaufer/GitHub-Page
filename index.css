@@ -1,0 +1,8 @@
+/*External CSS*/
+h1 {
+    color: purple;
+    background-color: green;
+    margin: auto 50px;
+    padding: -10px;
+    text-align: center; 
+}
