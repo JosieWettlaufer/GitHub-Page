@@ -5,6 +5,8 @@ h1 {
     margin: auto 50px;
     padding: -10px;
     text-align: center; 
+    border: 10px solid black;
+}
 }
 
 h3 {
