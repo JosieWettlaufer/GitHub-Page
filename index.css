@@ -2,15 +2,19 @@
 body {
     background-color: azure;
 }
+ul {
+    background-color: blueviolet;
+    border: 10px dashed #000;
+}
 h1 {
     color: rgb(26, 0, 26);
     background-color: rgb(62, 0, 75);
     margin: auto 50px;
-    padding: 10em;
+    padding: 10px;
     text-align: center; 
     border: 10px double black;
 }
 h3 {
-    color: orange;
+    color: rgb(243, 111, 225);
     border: 10px solid black;
 }
