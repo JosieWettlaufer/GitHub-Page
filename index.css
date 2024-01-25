@@ -9,8 +9,8 @@ ul {
 h1 {
     color: rgb(26, 0, 26);
     background-color: rgb(62, 0, 75);
-    margin: auto 50px;
-    padding: 10px;
+    margin: auto 5px;
+    padding: 5px;
     text-align: center; 
     border: 10px double black;
 }
