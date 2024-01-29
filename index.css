@@ -4,7 +4,7 @@ body {
 }
 ul {
     background-color: blueviolet;
-    border: 10px dashed #000;
+    border: 1px dashed #000;
 }
 h1 {
     color: rgb(26, 0, 26);
@@ -12,9 +12,9 @@ h1 {
     margin: auto 5px;
     padding: 5px;
     text-align: center; 
-    border: 10px double black;
+    border: 2px double black;
 }
 h3 {
     color: rgb(243, 111, 225);
-    border: 10px solid black;
+    border: 1px solid black;
 }
